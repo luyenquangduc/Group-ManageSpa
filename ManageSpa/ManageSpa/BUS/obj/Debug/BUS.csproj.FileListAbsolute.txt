@@ -1,0 +1,8 @@
+J:\C#\ManageSpa\BIN\BUS.dll
+J:\C#\ManageSpa\BIN\BUS.pdb
+J:\C#\ManageSpa\BUS\obj\Debug\BUS.dll
+J:\C#\ManageSpa\BUS\obj\Debug\BUS.pdb
+J:\C#\ManageSpa\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\ManageSpa\ManageSpa\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\ManageSpa\ManageSpa\BUS\obj\Debug\BUS.dll
+F:\ManageSpa\ManageSpa\BUS\obj\Debug\BUS.pdb

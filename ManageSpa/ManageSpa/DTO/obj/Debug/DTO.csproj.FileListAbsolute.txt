@@ -1,0 +1,4 @@
+J:\C#\ManageSpa\BIN\DTO.dll
+J:\C#\ManageSpa\BIN\DTO.pdb
+J:\C#\ManageSpa\DTO\obj\Debug\DTO.dll
+J:\C#\ManageSpa\DTO\obj\Debug\DTO.pdb

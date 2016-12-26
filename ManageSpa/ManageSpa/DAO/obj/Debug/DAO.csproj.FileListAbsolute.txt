@@ -1,0 +1,10 @@
+J:\C#\ManageSpa\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+J:\C#\ManageSpa\BIN\DAO.dll
+J:\C#\ManageSpa\BIN\DAO.pdb
+J:\C#\ManageSpa\DAO\obj\Debug\DAO.dll
+J:\C#\ManageSpa\DAO\obj\Debug\DAO.pdb
+F:\ManageSpa\ManageSpa\BIN\DAO.dll
+F:\ManageSpa\ManageSpa\BIN\DAO.pdb
+F:\ManageSpa\ManageSpa\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\ManageSpa\ManageSpa\DAO\obj\Debug\DAO.dll
+F:\ManageSpa\ManageSpa\DAO\obj\Debug\DAO.pdb
